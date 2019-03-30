@@ -1,2 +1,2 @@
-# Java-ExercismIO
-Annotated solutions to the Java Exericm.IO exercises.
+# About
+Annotated solutions to the Java Exercism IO exercises.
